@@ -1,9 +1,18 @@
 # Nome do Projeto
-### Professor orientador, email @insper.edu.br
-### Membros do grupo
-### nome completo, user github, email @al.insper.edu.br
 
-## 🎯 Descrição
+## Empresa/Cliente Parceiro
+**Nome da empresa ou organização parceira.**  
+Exemplo: *Tech Solutions Ltda.*
+
+## Integrantes do Grupo
+
+| Nome Completo        | RA / Matrícula | Curso                 |
+|----------------------|----------------|------------------------|
+| Fulano de Tal        | 123456         | Engenharia da Computação |
+| Ciclana da Silva     | 234567         | Ciência da Computação   |
+| Beltrano Oliveira    | 345678         | Engenharia Mecatrônica  |
+
+## 🎯 Descrição do Projeto
 Descreva brevemente o objetivo do projeto, o problema que ele resolve ou a proposta.
 
 ## 🚀 Documentação
