@@ -1,6 +1,6 @@
 # Nome do Projeto
-## Professor orientador, email @insper.edu.br
-## Membros do grupo
+### Professor orientador, email @insper.edu.br
+### Membros do grupo
 ### nome completo, user github, email @al.insper.edu.br
 
 ## 🎯 Descrição
