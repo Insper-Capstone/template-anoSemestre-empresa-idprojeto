@@ -27,3 +27,5 @@ Descreva brevemente o objetivo do projeto, o problema que ele resolve ou a propo
 - Outros: [APIs, bibliotecas, ferramentas]
 
 ## 📂 Organização do Projeto
+- 
+-
